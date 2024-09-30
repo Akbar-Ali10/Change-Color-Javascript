@@ -1,0 +1,18 @@
+
+.btn-main{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.btn-main button{
+    padding: 20px 30px;
+    border-radius: 8px;
+    border: 1px solid white;
+    margin-left: 10px;
+}
+h1{
+    text-align: center;
+    padding-top: 100px;
+    font-size: 40px;
+    
+}
